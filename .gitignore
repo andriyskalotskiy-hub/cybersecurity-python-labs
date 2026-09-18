@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+labs/*/data/*.csv
+labs/*/data/*.json
+*.db
+*.sqlite3
+ruff-report.*
+reports/

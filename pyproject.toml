@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 79
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "D"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "pep257"

@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "email": "carol@example.test",
+      "ip": "203.0.113.80"
+    },
+    {
+      "email": "dave@example.test",
+      "phone": "+44 20 7946 0958"
+    },
+    {
+      "card": "4000-0000-0000-0002",
+      "note": "synthetic test card number"
+    },
+    {
+      "message": "record without PII"
+    }
+  ]
+}

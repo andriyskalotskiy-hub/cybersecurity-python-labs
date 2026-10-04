@@ -1,0 +1,6 @@
+Synthetic training data only.
+Contact: bob.smith@example.test
+Phone: +1-202-555-0147
+Backup phone: 0501234567
+Internal IP: 10.20.30.40
+Test card: 5555 5555 5555 4444

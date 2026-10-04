@@ -1,0 +1,5 @@
+2026-09-27 INFO login user=alice@example.test ip=192.0.2.10
+2026-09-27 INFO support_phone=+380 67 123 45 67
+2026-09-27 WARN payment_card=4111-1111-1111-1111
+2026-09-27 INFO callback_ip=198.51.100.44
+2026-09-27 INFO no-sensitive-data-here

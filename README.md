@@ -135,3 +135,10 @@ cd cybersecurity-python-labs
 
 На Linux: `python3 -m venv .venv`, `source .venv/bin/activate`,
 після чого ті самі команди встановлення й запуску.
+
+
+## Лабораторна робота 2
+
+ООП та сканер конфіденційних даних, варіант 13.
+Інструкція та команди: [labs/lab02/README.md](labs/lab02/README.md).
+Підготовка до захисту: [docs/defense_lab02.md](docs/defense_lab02.md).

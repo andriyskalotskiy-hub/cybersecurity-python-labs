@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "iam"
+    },
+    {
+      "id": 2,
+      "name": "storage"
+    },
+    {
+      "id": 3,
+      "name": "network"
+    }
+  ],
+  "records": [
+    {
+      "code": "V13-01",
+      "title": "Знахідка хмарного аудиту 01",
+      "category_id": 1,
+      "value": 8.0,
+      "status": "new"
+    },
+    {
+      "code": "V13-02",
+      "title": "Знахідка хмарного аудиту 02",
+      "category_id": 2,
+      "value": 6.5,
+      "status": "in_progress"
+    },
+    {
+      "code": "V13-03",
+      "title": "Знахідка хмарного аудиту 03",
+      "category_id": 3,
+      "value": 4.0,
+      "status": "done"
+    },
+    {
+      "code": "V13-04",
+      "title": "Знахідка хмарного аудиту 04",
+      "category_id": 1,
+      "value": 9.0,
+      "status": "new"
+    },
+    {
+      "code": "V13-05",
+      "title": "Знахідка хмарного аудиту 05",
+      "category_id": 2,
+      "value": 7.5,
+      "status": "done"
+    },
+    {
+      "code": "V13-06",
+      "title": "Знахідка хмарного аудиту 06",
+      "category_id": 3,
+      "value": 3.0,
+      "status": "in_progress"
+    },
+    {
+      "code": "V13-07",
+      "title": "Знахідка хмарного аудиту 07",
+      "category_id": 1,
+      "value": 7.0,
+      "status": "done"
+    },
+    {
+      "code": "V13-08",
+      "title": "Знахідка хмарного аудиту 08",
+      "category_id": 2,
+      "value": 5.0,
+      "status": "new"
+    }
+  ]
+}

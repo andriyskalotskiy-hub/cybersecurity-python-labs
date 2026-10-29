@@ -142,3 +142,9 @@ cd cybersecurity-python-labs
 ООП та сканер конфіденційних даних, варіант 13.
 Інструкція та команди: [labs/lab02/README.md](labs/lab02/README.md).
 Підготовка до захисту: [docs/defense_lab02.md](docs/defense_lab02.md).
+
+## Лабораторна робота 3
+
+[Реєстр ризиків хмарної конфігурації](labs/lab03/README.md): FastAPI,
+SQLite, фільтри, CRUD і транзакції пакетного додавання.
+[Підготовка до захисту](docs/defense_lab03.md).

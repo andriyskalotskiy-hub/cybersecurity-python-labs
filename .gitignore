@@ -14,3 +14,10 @@ labs/*/data/*.json
 *.sqlite3
 ruff-report.*
 reports/
+
+# ЛР 3: початковий набір зберігаємо, робочу базу — ні.
+!labs/lab03/data/seed.json
+labs/lab03/data/*.sqlite3
+labs/lab03/data/*.sqlite3-*
+labs/lab03/data/*.db
+labs/lab03/data/*.db-*

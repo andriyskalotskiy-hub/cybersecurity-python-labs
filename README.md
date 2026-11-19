@@ -148,3 +148,8 @@ cd cybersecurity-python-labs
 [Реєстр ризиків хмарної конфігурації](labs/lab03/README.md): FastAPI,
 SQLite, фільтри, CRUD і транзакції пакетного додавання.
 [Підготовка до захисту](docs/defense_lab03.md).
+
+## Лабораторна робота 4
+
+[Перегляд CVE через NVD API](labs/lab04/README.md): локальний режим,
+відбір за CVSS 3.1 і тести pytest без мережі.

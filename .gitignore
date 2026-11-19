@@ -21,3 +21,6 @@ labs/lab03/data/*.sqlite3
 labs/lab03/data/*.sqlite3-*
 labs/lab03/data/*.db
 labs/lab03/data/*.db-*
+
+# ЛР 4: локальний приклад відповіді NVD.
+!labs/lab04/data/nvd_sample.json
